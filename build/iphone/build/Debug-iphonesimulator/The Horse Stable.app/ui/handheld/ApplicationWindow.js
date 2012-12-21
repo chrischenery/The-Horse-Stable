@@ -1,0 +1,1 @@
+/Users/chris/Documents/app development/The Horse Stable/Resources/ui/handheld/ApplicationWindow.js
